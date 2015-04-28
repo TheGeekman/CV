@@ -75,7 +75,7 @@ My [Github profile](https://github.com/Pau1fitz), contains examples of code that
 
 ## Work Experience
 
-I have worked for both Skype and Microsoft. Full details of my previous employment can be found on [my linkedin profile](https://www.linkedin.com/profile/view?id=84650597&trk=nav_responsive_tab_profile)
+I have worked for both Skype and Microsoft. Full details of my previous employment can be found on [my Linkedin profile](https://www.linkedin.com/profile/view?id=84650597&trk=nav_responsive_tab_profile)
 
 ## Academic Background
 
