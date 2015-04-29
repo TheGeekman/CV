@@ -2,7 +2,7 @@
 
 I am a full stack web-developer with 5 years professional experience in the tech industry, having worked for both Microsoft and Skype. 
 
-I recently completed a 12-week, highly-selective web-development course at London's Maker's Academy, following which I yearn to write clear, concise and modular code. 
+I recently completed a 12-week, highly-selective web-development course at London's Maker's Academy, following which I strive to write clear, concise and modular code. 
 
 Please see [my personal website](http://www.paulfitz.co.uk/) for details of some of the projects I have worked on during my time at Maker's Academy. 
 
